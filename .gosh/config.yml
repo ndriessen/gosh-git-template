@@ -1,0 +1,2 @@
+DeploymentRepository:
+  Url: git@github.com/your-git-deployment-repo.git
