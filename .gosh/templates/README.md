@@ -1,0 +1,1 @@
+Place your Gosh application templates in this folder

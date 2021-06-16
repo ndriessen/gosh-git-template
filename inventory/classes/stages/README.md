@@ -1,0 +1,1 @@
+Use `gosh create stage` to add stages

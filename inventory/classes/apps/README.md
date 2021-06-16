@@ -1,0 +1,1 @@
+Use `gosh create app` to add apps

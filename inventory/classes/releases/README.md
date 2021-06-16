@@ -1,0 +1,1 @@
+Use `gosh create release` to add releases

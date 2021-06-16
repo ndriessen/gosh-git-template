@@ -1,0 +1,1 @@
+Use `gosh create env` to create deployment targets
